@@ -1,10 +1,10 @@
 # 7 Days to Die Mod - No Sneak Damage Notification
-[![nexus-mods-collection-immersive-hud](https://img.shields.io/badge/Nexus%20Mods%20Collection-Immersive%20HUD%20-orange?style=flat-square&logo=spinrilla)](https://next.nexusmods.com/7daystodie/collections/epfqzi) [![nexus-mods-page](https://img.shields.io/badge/Nexus%20Mod-Immersive%20Loading%20Screens%20-orange?style=flat-square&logo=spinrilla)](https://www.nexusmods.com/7daystodie/mods/5893) [![github-repository](https://img.shields.io/badge/GitHub-Repository-green?style=flat-square&logo=github)](https://github.com/rdok/7daystodie_mod_no_sneak_damage_notification)
+[![nexus-mods-collection-immersive-hud](https://img.shields.io/badge/Nexus%20Mods%20Collection-Immersive%20HUD%20-orange?style=flat-square&logo=spinrilla)](https://next.nexusmods.com/7daystodie/collections/epfqzi) [![nexus-mods-page](https://img.shields.io/badge/Nexus%20Mod-Immersive%20Loading%20Screens%20-orange?style=flat-square&logo=spinrilla)](https://www.nexusmods.com/7daystodie/mods/5893) [![github-repository](https://img.shields.io/badge/GitHub-Repository-green?style=flat-square&logo=github)](https://github.com/rdok/7daystodie_mod_no_notify_sneak_damage)
 
 > Disable the sneak damage notification.  
 > **EAC:** This mod uses custom code that is not compatible with Easy Anti-Cheat (EAC).
  
-[![No Sneak Damage Notification](https://raw.githubusercontent.com/rdok/7daystodie_mod_no_sneak_damage_notification/main/documentation/showcase.jpg)](https://www.nexusmods.com/7daystodie/mods/5893)
+[![No Sneak Damage Notification](https://raw.githubusercontent.com/rdok/7daystodie_mod_no_notify_sneak_damage/main/documentation/showcase.jpg)](https://www.nexusmods.com/7daystodie/mods/5893)
 
 ## Features
 - Disable the sneak damage notification.   
