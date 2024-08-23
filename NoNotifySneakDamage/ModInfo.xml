@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <Name value="NoNotifySneakDamage"/>
+    <DisplayName value="No Notify Sneak Damage"/>
+    <Version value="1.0.0"/>
+    <Description value="Disable the  sneak damage notification"/>
+    <Author value="Rizarttt"/>
+    <Website value="https://www.nexusmods.com/7daystodie/mods/5893"/>
+</xml>
